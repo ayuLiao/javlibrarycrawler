@@ -1,0 +1,6 @@
+# javlibrarycrawler
+javlibrary评分最高影片磁力链爬虫
+
+先爬取javlibrary最高评分影片的番号
+
+获得番号后在通过磁力链搜索引擎搜索该番号对应影片的磁力链
